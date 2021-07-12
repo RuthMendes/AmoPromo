@@ -1,12 +1,13 @@
 .inputplace{
-    padding: 16px 16px 16px 32px;
+    padding: 16px 16px 10px 32px;
     margin: 0px 16px 16px 16px;
     background-color: #EBECF0;
     margin-top: 10px;
+       
 
 }
 .inputplace:hover{
-    background-color:grey;
+    background-color:#59D090;
     cursor: pointer;
 }
 .place{
