@@ -1,0 +1,26 @@
+.paper{
+    width: 350px;
+    background-color: #5CC4FF !important;
+    margin-left: -5px;
+    box-shadow:  5px 10px 18px #888888;
+}
+@media screen and (max-width:480px) {
+    .paper {
+        width:120%;
+        margin-left: 10px;
+        justify-content: center;
+        align-items: center;
+        
+
+    }
+  }
+@media screen and (max-width:480px) {
+    .paper {
+        width:110%;
+        margin-left: 12px;
+        justify-content: center;
+        align-items: center;
+        
+
+    }
+  }
