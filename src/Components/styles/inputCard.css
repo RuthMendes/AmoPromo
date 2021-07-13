@@ -7,9 +7,10 @@
     color: fff;
     padding: 10px;
     margin-left: -20px;
-    margin-top: 5px;
+    margin-top: 15px;
     cursor: pointer;
     border: 1px white;
+    box-shadow:  5px 10px 18px #888888;
       
 }
 
@@ -19,6 +20,7 @@
     overflow: hidden;
     padding: 6px 70px 42px;
     position: relative;
+    box-shadow:  5px 10px 18px #888888;
 }
 .confirm>button:hover{
     background:fade(#5aac44,0.25);
