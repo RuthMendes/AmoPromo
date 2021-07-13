@@ -2,6 +2,7 @@
     width: 350px;
     background-color: #ebecf0 !important;
     margin-left: -5px;
+    margin-top: 60px;
     
 }
 @media screen and (max-width:480px) {
@@ -18,7 +19,7 @@
     .paper {
         width:110%;
         margin-left: 12px;
-        justify-content: center;
+        justify-content: space-around;
         align-items: center;
         
 

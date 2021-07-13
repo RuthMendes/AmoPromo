@@ -3,12 +3,14 @@
     margin: 0px 16px 16px 16px;
     background-color: #EBECF0;
     margin-top: 10px;
+    
        
 
 }
 .inputplace:hover{
     background-color:#59D090;
     cursor: pointer;
+    box-shadow:  5px 10px 18px #888888;
 }
 .place{
     margin-top:10px ;
